@@ -13,6 +13,9 @@ body {
     margin-top: 10%;
 }
 
+#info {
+    height: 6em;
+}
 .botao {
     color: white;
     width: 25%;
@@ -48,7 +51,7 @@ body {
 }
 
 .botao3:hover {
-    background-color: chartreuse;
+    background-color: rgb(9, 255, 0);
 }
 
 #finalizar {
@@ -59,6 +62,7 @@ body {
     background-color: cyan;
     border-color: rgb(0, 0, 0);
     border-radius: 4px;
+    height: 4em;
 }
 
 #finalizar:hover {
