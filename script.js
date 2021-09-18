@@ -57,6 +57,8 @@ function confirmar() {
 
 function finalizar() {
     alert('Candidato1: ' + candidato1 + '\n' + 'Candidato2: ' + candidato2 + '\n' + 'Candidato3: ' + candidato3)
-    candidato1, candidato2, candidato3 = 0
+    candidato1 = 0
+    candidato2 = 0
+    candidato3 = 0
 
 }
