@@ -18,4 +18,4 @@
     <li>Candidato3 (15) </li>
 </ul>
 
-<img src="urna.png" alt="foto do projeto">
+<img src="img/urna.png" alt="foto do projeto">
