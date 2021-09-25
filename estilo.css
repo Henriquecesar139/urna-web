@@ -69,3 +69,8 @@ body {
     background-color: darkblue;
     color: White;
 }
+
+a {
+    text-decoration: none;
+    color:green;
+}
