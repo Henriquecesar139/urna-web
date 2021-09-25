@@ -1,13 +1,17 @@
 numero = ['_', '_']
 
+//Listas com os números
 voto1 = ['4', '5']
 voto2 = ['2', '3']
 voto3 = ['1', '5']
 
+//Variáveis dos candidatos
 candidato1 = 0
 candidato2 = 0
 candidato3 = 0
 
+
+//função que exibe o nome de cada candidato quando seu número é selecionado
 function exibir() {
     if (numero.toString() == voto1.toString()) {
         document.getElementById('candidato').innerText = 'candidato1'
